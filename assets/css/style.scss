@@ -11,6 +11,11 @@ body {
   text-align: right;
 }
 
+/* add space at the top */
+body {
+  margin-top: 80px;   /* tweak this number */
+}
+
 
 /* === Global retro look, black on white === */
 body {
