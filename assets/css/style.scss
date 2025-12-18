@@ -2,6 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
+/* make the main content area align to the right */
+.wrapper,
+.site-wrapper,
+.page-content,
+.page,
+body {
+  text-align: right;
+}
+
+
 /* === Global retro look, black on white === */
 body {
   background-color: #ffffff;        /* white background */
