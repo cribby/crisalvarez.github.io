@@ -86,6 +86,10 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+.viz-fullwidth {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 
 /* remove scanline effect if you don't want it */
 body::before {
