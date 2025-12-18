@@ -13,7 +13,7 @@ body {
 
 /* add space at the top */
 body {
-  margin-top: 100px;   /* tweak this number */
+  margin-top: 140px;   /* tweak this number */
 }
 
 
@@ -58,6 +58,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.08em;
+}
+
+ /*hiding the github link*/
+.footer,
+.site-footer {
+  display: none;
 }
 
 /* remove scanline effect if you don't want it */
