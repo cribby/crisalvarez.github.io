@@ -5,7 +5,7 @@ title: An Immigration Story (Orange County Immigration Statistics)
 
 <div class="project-block">
 ==============
-Project title<br>
+An Immigration Story (Orange County Immigration Statistics)<br>
 <br>
 Short text about this project.<br>
 <br>
