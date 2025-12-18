@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project title
+title: An Immigration Story (Orange County Immigration Statistics)
 ---
 
 <div class="project-block">
