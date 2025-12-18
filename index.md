@@ -12,8 +12,9 @@ immigration data, dashboards, family-friendly planning tools, etc.<br>
 Current interests:<br>
 Pilates, baseball, policy and reality TV<br>
 <br>
-[Baseball Factories](baseball.md)<br>
+<a href="baseball">Baseball writing sample</a><br>
 <br>
-Twitter / LinkedIn / Email / [Instagram](https://www.instagram.com/kateouterton2.0/?hl=en)
+Twitter / LinkedIn / Email / 
+<a href="https://www.instagram.com/kateouterton2.0/?hl=en">Instagram</a>
 </div>
 
