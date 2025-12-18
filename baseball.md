@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Project 1
+title: Baseball Factories
 ---
 
-#Baseball Factories
+Baseball Factories
 
 Some text describing this work.
 
